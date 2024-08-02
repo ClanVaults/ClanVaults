@@ -42,7 +42,7 @@ Clan Vaults is comprised of a diverse team of five professionals with specialize
 
 For more information about Clan Vaults or to discuss potential collaborations, please contact us at [email contact]. You can also follow us on our social media:
 
-- [Twitter](https://x.com/ClanVault)
+- [Twitter](https://x.com/ClanVaults)
 
 ## License
 
